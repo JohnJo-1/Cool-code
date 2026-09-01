@@ -1,0 +1,8 @@
+Name = str(input("Enter your name: "))
+age = int(input("Enter your age: ))
+is_cool = True
+
+if age <=18 and is_cool is True:
+   print("You are a very dependable and cool adult")
+else:
+   print("Study hard and always be optimistic")
