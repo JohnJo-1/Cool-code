@@ -1,0 +1,6 @@
+Name = str(input("Enter your name: "))
+x = float(input("Enter number: "))
+y = int(input("How many: "))
+amount = x * y
+print("Hi", Name)
+print("Your total amount is: ", amount)
